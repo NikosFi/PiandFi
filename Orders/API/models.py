@@ -8,3 +8,6 @@ class order(models.Model):
     status = models.CharField(max_length=200)
     missed_reason = models.CharField(max_length=100, null=True)
     persons = models.IntegerField
+
+
+    #wanna work now?
