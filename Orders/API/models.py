@@ -11,3 +11,6 @@ from django.db import models
 
 
     #wanna work now?
+    #or now?
+    #now?
+
